@@ -1,0 +1,2010 @@
+[
+  {
+    "common": "ALLEE",
+    "standard": "ALY"
+  },
+  {
+    "common": "ALLEY",
+    "standard": "ALY"
+  },
+  {
+    "common": "ALLY",
+    "standard": "ALY"
+  },
+  {
+    "common": "ALY",
+    "standard": "ALY"
+  },
+  {
+    "common": "ANEX",
+    "standard": "ANX"
+  },
+  {
+    "common": "ANNEX",
+    "standard": "ANX"
+  },
+  {
+    "common": "ANNX",
+    "standard": "ANX"
+  },
+  {
+    "common": "ANX",
+    "standard": "ANX"
+  },
+  {
+    "common": "ARC",
+    "standard": "ARC"
+  },
+  {
+    "common": "ARCADE",
+    "standard": "ARC"
+  },
+  {
+    "common": "AV",
+    "standard": "AVE"
+  },
+  {
+    "common": "AVE",
+    "standard": "AVE"
+  },
+  {
+    "common": "AVEN",
+    "standard": "AVE"
+  },
+  {
+    "common": "AVENU",
+    "standard": "AVE"
+  },
+  {
+    "common": "AVENUE",
+    "standard": "AVE"
+  },
+  {
+    "common": "AVN",
+    "standard": "AVE"
+  },
+  {
+    "common": "AVNUE",
+    "standard": "AVE"
+  },
+  {
+    "common": "BAYOO",
+    "standard": "BYU"
+  },
+  {
+    "common": "BAYOU",
+    "standard": "BYU"
+  },
+  {
+    "common": "BCH",
+    "standard": "BCH"
+  },
+  {
+    "common": "BEACH",
+    "standard": "BCH"
+  },
+  {
+    "common": "BEND",
+    "standard": "BND"
+  },
+  {
+    "common": "BND",
+    "standard": "BND"
+  },
+  {
+    "common": "BLF",
+    "standard": "BLF"
+  },
+  {
+    "common": "BLUF",
+    "standard": "BLF"
+  },
+  {
+    "common": "BLUFF",
+    "standard": "BLF"
+  },
+  {
+    "common": "BLUFFS",
+    "standard": "BLFS"
+  },
+  {
+    "common": "BOT",
+    "standard": "BTM"
+  },
+  {
+    "common": "BTM",
+    "standard": "BTM"
+  },
+  {
+    "common": "BOTTM",
+    "standard": "BTM"
+  },
+  {
+    "common": "BOTTOM",
+    "standard": "BTM"
+  },
+  {
+    "common": "BLVD",
+    "standard": "BLVD"
+  },
+  {
+    "common": "BOUL",
+    "standard": "BLVD"
+  },
+  {
+    "common": "BOULEVARD",
+    "standard": "BLVD"
+  },
+  {
+    "common": "BOULV",
+    "standard": "BLVD"
+  },
+  {
+    "common": "BR",
+    "standard": "BR"
+  },
+  {
+    "common": "BRNCH",
+    "standard": "BR"
+  },
+  {
+    "common": "BRANCH",
+    "standard": "BR"
+  },
+  {
+    "common": "BRDGE",
+    "standard": "BRG"
+  },
+  {
+    "common": "BRG",
+    "standard": "BRG"
+  },
+  {
+    "common": "BRIDGE",
+    "standard": "BRG"
+  },
+  {
+    "common": "BRK",
+    "standard": "BRK"
+  },
+  {
+    "common": "BROOK",
+    "standard": "BRK"
+  },
+  {
+    "common": "BROOKS",
+    "standard": "BRKS"
+  },
+  {
+    "common": "BURG",
+    "standard": "BG"
+  },
+  {
+    "common": "BURGS",
+    "standard": "BGS"
+  },
+  {
+    "common": "BYP",
+    "standard": "BYP"
+  },
+  {
+    "common": "BYPA",
+    "standard": "BYP"
+  },
+  {
+    "common": "BYPAS",
+    "standard": "BYP"
+  },
+  {
+    "common": "BYPASS",
+    "standard": "BYP"
+  },
+  {
+    "common": "BYPS",
+    "standard": "BYP"
+  },
+  {
+    "common": "CAMP",
+    "standard": "CP"
+  },
+  {
+    "common": "CP",
+    "standard": "CP"
+  },
+  {
+    "common": "CMP",
+    "standard": "CP"
+  },
+  {
+    "common": "CANYN",
+    "standard": "CYN"
+  },
+  {
+    "common": "CANYON",
+    "standard": "CYN"
+  },
+  {
+    "common": "CNYN",
+    "standard": "CYN"
+  },
+  {
+    "common": "CAPE",
+    "standard": "CPE"
+  },
+  {
+    "common": "CPE",
+    "standard": "CPE"
+  },
+  {
+    "common": "CAUSEWAY",
+    "standard": "CSWY"
+  },
+  {
+    "common": "CAUSWA",
+    "standard": "CSWY"
+  },
+  {
+    "common": "CSWY",
+    "standard": "CSWY"
+  },
+  {
+    "common": "CEN",
+    "standard": "CTR"
+  },
+  {
+    "common": "CENT",
+    "standard": "CTR"
+  },
+  {
+    "common": "CENTER",
+    "standard": "CTR"
+  },
+  {
+    "common": "CENTR",
+    "standard": "CTR"
+  },
+  {
+    "common": "CENTRE",
+    "standard": "CTR"
+  },
+  {
+    "common": "CNTER",
+    "standard": "CTR"
+  },
+  {
+    "common": "CNTR",
+    "standard": "CTR"
+  },
+  {
+    "common": "CTR",
+    "standard": "CTR"
+  },
+  {
+    "common": "CENTERS",
+    "standard": "CTRS"
+  },
+  {
+    "common": "CIR",
+    "standard": "CIR"
+  },
+  {
+    "common": "CIRC",
+    "standard": "CIR"
+  },
+  {
+    "common": "CIRCL",
+    "standard": "CIR"
+  },
+  {
+    "common": "CIRCLE",
+    "standard": "CIR"
+  },
+  {
+    "common": "CRCL",
+    "standard": "CIR"
+  },
+  {
+    "common": "CRCLE",
+    "standard": "CIR"
+  },
+  {
+    "common": "CIRCLES",
+    "standard": "CIRS"
+  },
+  {
+    "common": "CLF",
+    "standard": "CLF"
+  },
+  {
+    "common": "CLIFF",
+    "standard": "CLF"
+  },
+  {
+    "common": "CLFS",
+    "standard": "CLFS"
+  },
+  {
+    "common": "CLIFFS",
+    "standard": "CLFS"
+  },
+  {
+    "common": "CLB",
+    "standard": "CLB"
+  },
+  {
+    "common": "CLUB",
+    "standard": "CLB"
+  },
+  {
+    "common": "COMMON",
+    "standard": "CMN"
+  },
+  {
+    "common": "COMMONS",
+    "standard": "CMNS"
+  },
+  {
+    "common": "COR",
+    "standard": "COR"
+  },
+  {
+    "common": "CORNER",
+    "standard": "COR"
+  },
+  {
+    "common": "CORNERS",
+    "standard": "CORS"
+  },
+  {
+    "common": "CORS",
+    "standard": "CORS"
+  },
+  {
+    "common": "COURSE",
+    "standard": "CRSE"
+  },
+  {
+    "common": "CRSE",
+    "standard": "CRSE"
+  },
+  {
+    "common": "COURT",
+    "standard": "CT"
+  },
+  {
+    "common": "CT",
+    "standard": "CT"
+  },
+  {
+    "common": "COURTS",
+    "standard": "CTS"
+  },
+  {
+    "common": "CTS",
+    "standard": "CTS"
+  },
+  {
+    "common": "COVE",
+    "standard": "CV"
+  },
+  {
+    "common": "CV",
+    "standard": "CV"
+  },
+  {
+    "common": "COVES",
+    "standard": "CVS"
+  },
+  {
+    "common": "CREEK",
+    "standard": "CRK"
+  },
+  {
+    "common": "CRK",
+    "standard": "CRK"
+  },
+  {
+    "common": "CRESCENT",
+    "standard": "CRES"
+  },
+  {
+    "common": "CRES",
+    "standard": "CRES"
+  },
+  {
+    "common": "CRSENT",
+    "standard": "CRES"
+  },
+  {
+    "common": "CRSNT",
+    "standard": "CRES"
+  },
+  {
+    "common": "CREST",
+    "standard": "CRST"
+  },
+  {
+    "common": "CROSSING",
+    "standard": "XING"
+  },
+  {
+    "common": "CRSSNG",
+    "standard": "XING"
+  },
+  {
+    "common": "XING",
+    "standard": "XING"
+  },
+  {
+    "common": "CROSSROAD",
+    "standard": "XRD"
+  },
+  {
+    "common": "CROSSROADS",
+    "standard": "XRDS"
+  },
+  {
+    "common": "CURVE",
+    "standard": "CURV"
+  },
+  {
+    "common": "DALE",
+    "standard": "DL"
+  },
+  {
+    "common": "DL",
+    "standard": "DL"
+  },
+  {
+    "common": "DAM",
+    "standard": "DM"
+  },
+  {
+    "common": "DM",
+    "standard": "DM"
+  },
+  {
+    "common": "DIV",
+    "standard": "DV"
+  },
+  {
+    "common": "DIVIDE",
+    "standard": "DV"
+  },
+  {
+    "common": "DV",
+    "standard": "DV"
+  },
+  {
+    "common": "DVD",
+    "standard": "DV"
+  },
+  {
+    "common": "DR",
+    "standard": "DR"
+  },
+  {
+    "common": "DRIV",
+    "standard": "DR"
+  },
+  {
+    "common": "DRIVE",
+    "standard": "DR"
+  },
+  {
+    "common": "DRV",
+    "standard": "DR"
+  },
+  {
+    "common": "DRIVES",
+    "standard": "DRS"
+  },
+  {
+    "common": "EST",
+    "standard": "EST"
+  },
+  {
+    "common": "ESTATE",
+    "standard": "EST"
+  },
+  {
+    "common": "ESTATES",
+    "standard": "ESTS"
+  },
+  {
+    "common": "ESTS",
+    "standard": "ESTS"
+  },
+  {
+    "common": "EXP",
+    "standard": "EXPY"
+  },
+  {
+    "common": "EXPR",
+    "standard": "EXPY"
+  },
+  {
+    "common": "EXPRESS",
+    "standard": "EXPY"
+  },
+  {
+    "common": "EXPRESSWAY",
+    "standard": "EXPY"
+  },
+  {
+    "common": "EXPW",
+    "standard": "EXPY"
+  },
+  {
+    "common": "EXPY",
+    "standard": "EXPY"
+  },
+  {
+    "common": "EXT",
+    "standard": "EXT"
+  },
+  {
+    "common": "EXTENSION",
+    "standard": "EXT"
+  },
+  {
+    "common": "EXTN",
+    "standard": "EXT"
+  },
+  {
+    "common": "EXTNSN",
+    "standard": "EXT"
+  },
+  {
+    "common": "EXTS",
+    "standard": "EXTS"
+  },
+  {
+    "common": "FALL",
+    "standard": "FALL"
+  },
+  {
+    "common": "FALLS",
+    "standard": "FLS"
+  },
+  {
+    "common": "FLS",
+    "standard": "FLS"
+  },
+  {
+    "common": "FERRY",
+    "standard": "FRY"
+  },
+  {
+    "common": "FRRY",
+    "standard": "FRY"
+  },
+  {
+    "common": "FRY",
+    "standard": "FRY"
+  },
+  {
+    "common": "FIELD",
+    "standard": "FLD"
+  },
+  {
+    "common": "FLD",
+    "standard": "FLD"
+  },
+  {
+    "common": "FIELDS",
+    "standard": "FLDS"
+  },
+  {
+    "common": "FLDS",
+    "standard": "FLDS"
+  },
+  {
+    "common": "FLAT",
+    "standard": "FLT"
+  },
+  {
+    "common": "FLT",
+    "standard": "FLT"
+  },
+  {
+    "common": "FLATS",
+    "standard": "FLTS"
+  },
+  {
+    "common": "FLTS",
+    "standard": "FLTS"
+  },
+  {
+    "common": "FORD",
+    "standard": "FRD"
+  },
+  {
+    "common": "FRD",
+    "standard": "FRD"
+  },
+  {
+    "common": "FORDS",
+    "standard": "FRDS"
+  },
+  {
+    "common": "FOREST",
+    "standard": "FRST"
+  },
+  {
+    "common": "FORESTS",
+    "standard": "FRST"
+  },
+  {
+    "common": "FRST",
+    "standard": "FRST"
+  },
+  {
+    "common": "FORG",
+    "standard": "FRG"
+  },
+  {
+    "common": "FORGE",
+    "standard": "FRG"
+  },
+  {
+    "common": "FRG",
+    "standard": "FRG"
+  },
+  {
+    "common": "FORGES",
+    "standard": "FRGS"
+  },
+  {
+    "common": "FORK",
+    "standard": "FRK"
+  },
+  {
+    "common": "FRK",
+    "standard": "FRK"
+  },
+  {
+    "common": "FORKS",
+    "standard": "FRKS"
+  },
+  {
+    "common": "FRKS",
+    "standard": "FRKS"
+  },
+  {
+    "common": "FORT",
+    "standard": "FT"
+  },
+  {
+    "common": "FRT",
+    "standard": "FT"
+  },
+  {
+    "common": "FT",
+    "standard": "FT"
+  },
+  {
+    "common": "FREEWAY",
+    "standard": "FWY"
+  },
+  {
+    "common": "FREEWY",
+    "standard": "FWY"
+  },
+  {
+    "common": "FRWAY",
+    "standard": "FWY"
+  },
+  {
+    "common": "FRWY",
+    "standard": "FWY"
+  },
+  {
+    "common": "FWY",
+    "standard": "FWY"
+  },
+  {
+    "common": "GARDEN",
+    "standard": "GDN"
+  },
+  {
+    "common": "GARDN",
+    "standard": "GDN"
+  },
+  {
+    "common": "GRDEN",
+    "standard": "GDN"
+  },
+  {
+    "common": "GRDN",
+    "standard": "GDN"
+  },
+  {
+    "common": "GARDENS",
+    "standard": "GDNS"
+  },
+  {
+    "common": "GDNS",
+    "standard": "GDNS"
+  },
+  {
+    "common": "GRDNS",
+    "standard": "GDNS"
+  },
+  {
+    "common": "GATEWAY",
+    "standard": "GTWY"
+  },
+  {
+    "common": "GATEWY",
+    "standard": "GTWY"
+  },
+  {
+    "common": "GATWAY",
+    "standard": "GTWY"
+  },
+  {
+    "common": "GTWAY",
+    "standard": "GTWY"
+  },
+  {
+    "common": "GTWY",
+    "standard": "GTWY"
+  },
+  {
+    "common": "GLEN",
+    "standard": "GLN"
+  },
+  {
+    "common": "GLN",
+    "standard": "GLN"
+  },
+  {
+    "common": "GLENS",
+    "standard": "GLNS"
+  },
+  {
+    "common": "GREEN",
+    "standard": "GRN"
+  },
+  {
+    "common": "GRN",
+    "standard": "GRN"
+  },
+  {
+    "common": "GREENS",
+    "standard": "GRNS"
+  },
+  {
+    "common": "GROV",
+    "standard": "GRV"
+  },
+  {
+    "common": "GROVE",
+    "standard": "GRV"
+  },
+  {
+    "common": "GRV",
+    "standard": "GRV"
+  },
+  {
+    "common": "GROVES",
+    "standard": "GRVS"
+  },
+  {
+    "common": "HARB",
+    "standard": "HBR"
+  },
+  {
+    "common": "HARBOR",
+    "standard": "HBR"
+  },
+  {
+    "common": "HARBR",
+    "standard": "HBR"
+  },
+  {
+    "common": "HBR",
+    "standard": "HBR"
+  },
+  {
+    "common": "HRBOR",
+    "standard": "HBR"
+  },
+  {
+    "common": "HARBORS",
+    "standard": "HBRS"
+  },
+  {
+    "common": "HAVEN",
+    "standard": "HVN"
+  },
+  {
+    "common": "HVN",
+    "standard": "HVN"
+  },
+  {
+    "common": "HT",
+    "standard": "HTS"
+  },
+  {
+    "common": "HTS",
+    "standard": "HTS"
+  },
+  {
+    "common": "HIGHWAY",
+    "standard": "HWY"
+  },
+  {
+    "common": "HIGHWY",
+    "standard": "HWY"
+  },
+  {
+    "common": "HIWAY",
+    "standard": "HWY"
+  },
+  {
+    "common": "HIWY",
+    "standard": "HWY"
+  },
+  {
+    "common": "HWAY",
+    "standard": "HWY"
+  },
+  {
+    "common": "HWY",
+    "standard": "HWY"
+  },
+  {
+    "common": "HILL",
+    "standard": "HL"
+  },
+  {
+    "common": "HL",
+    "standard": "HL"
+  },
+  {
+    "common": "HILLS",
+    "standard": "HLS"
+  },
+  {
+    "common": "HLS",
+    "standard": "HLS"
+  },
+  {
+    "common": "HLLW",
+    "standard": "HOLW"
+  },
+  {
+    "common": "HOLLOW",
+    "standard": "HOLW"
+  },
+  {
+    "common": "HOLLOWS",
+    "standard": "HOLW"
+  },
+  {
+    "common": "HOLW",
+    "standard": "HOLW"
+  },
+  {
+    "common": "HOLWS",
+    "standard": "HOLW"
+  },
+  {
+    "common": "INLT",
+    "standard": "INLT"
+  },
+  {
+    "common": "IS",
+    "standard": "IS"
+  },
+  {
+    "common": "ISLAND",
+    "standard": "IS"
+  },
+  {
+    "common": "ISLND",
+    "standard": "IS"
+  },
+  {
+    "common": "ISLANDS",
+    "standard": "ISS"
+  },
+  {
+    "common": "ISLNDS",
+    "standard": "ISS"
+  },
+  {
+    "common": "ISS",
+    "standard": "ISS"
+  },
+  {
+    "common": "ISLE",
+    "standard": "ISLE"
+  },
+  {
+    "common": "ISLES",
+    "standard": "ISLE"
+  },
+  {
+    "common": "JCT",
+    "standard": "JCT"
+  },
+  {
+    "common": "JCTION",
+    "standard": "JCT"
+  },
+  {
+    "common": "JCTN",
+    "standard": "JCT"
+  },
+  {
+    "common": "JUNCTION",
+    "standard": "JCT"
+  },
+  {
+    "common": "JUNCTN",
+    "standard": "JCT"
+  },
+  {
+    "common": "JUNCTON",
+    "standard": "JCT"
+  },
+  {
+    "common": "JCTNS",
+    "standard": "JCTS"
+  },
+  {
+    "common": "JCTS",
+    "standard": "JCTS"
+  },
+  {
+    "common": "JUNCTIONS",
+    "standard": "JCTS"
+  },
+  {
+    "common": "KEY",
+    "standard": "KY"
+  },
+  {
+    "common": "KY",
+    "standard": "KY"
+  },
+  {
+    "common": "KEYS",
+    "standard": "KYS"
+  },
+  {
+    "common": "KYS",
+    "standard": "KYS"
+  },
+  {
+    "common": "KNL",
+    "standard": "KNL"
+  },
+  {
+    "common": "KNOL",
+    "standard": "KNL"
+  },
+  {
+    "common": "KNOLL",
+    "standard": "KNL"
+  },
+  {
+    "common": "KNLS",
+    "standard": "KNLS"
+  },
+  {
+    "common": "KNOLLS",
+    "standard": "KNLS"
+  },
+  {
+    "common": "LK",
+    "standard": "LK"
+  },
+  {
+    "common": "LAKE",
+    "standard": "LK"
+  },
+  {
+    "common": "LKS",
+    "standard": "LKS"
+  },
+  {
+    "common": "LAKES",
+    "standard": "LKS"
+  },
+  {
+    "common": "LAND",
+    "standard": "LAND"
+  },
+  {
+    "common": "LANDING",
+    "standard": "LNDG"
+  },
+  {
+    "common": "LNDG",
+    "standard": "LNDG"
+  },
+  {
+    "common": "LNDNG",
+    "standard": "LNDG"
+  },
+  {
+    "common": "LANE",
+    "standard": "LN"
+  },
+  {
+    "common": "LN",
+    "standard": "LN"
+  },
+  {
+    "common": "LGT",
+    "standard": "LGT"
+  },
+  {
+    "common": "LIGHT",
+    "standard": "LGT"
+  },
+  {
+    "common": "LIGHTS",
+    "standard": "LGTS"
+  },
+  {
+    "common": "LF",
+    "standard": "LF"
+  },
+  {
+    "common": "LOAF",
+    "standard": "LF"
+  },
+  {
+    "common": "LCK",
+    "standard": "LCK"
+  },
+  {
+    "common": "LOCK",
+    "standard": "LCK"
+  },
+  {
+    "common": "LCKS",
+    "standard": "LCKS"
+  },
+  {
+    "common": "LOCKS",
+    "standard": "LCKS"
+  },
+  {
+    "common": "LDG",
+    "standard": "LDG"
+  },
+  {
+    "common": "LDGE",
+    "standard": "LDG"
+  },
+  {
+    "common": "LODG",
+    "standard": "LDG"
+  },
+  {
+    "common": "LODGE",
+    "standard": "LDG"
+  },
+  {
+    "common": "LOOP",
+    "standard": "LOOP"
+  },
+  {
+    "common": "LOOPS",
+    "standard": "LOOP"
+  },
+  {
+    "common": "MALL",
+    "standard": "MALL"
+  },
+  {
+    "common": "MNR",
+    "standard": "MNR"
+  },
+  {
+    "common": "MANOR",
+    "standard": "MNR"
+  },
+  {
+    "common": "MANORS",
+    "standard": "MNRS"
+  },
+  {
+    "common": "MNRS",
+    "standard": "MNRS"
+  },
+  {
+    "common": "MEADOW",
+    "standard": "MDW"
+  },
+  {
+    "common": "MDW",
+    "standard": "MDW"
+  },
+  {
+    "common": "MDWS",
+    "standard": "MDWS"
+  },
+  {
+    "common": "MEADOWS",
+    "standard": "MDWS"
+  },
+  {
+    "common": "MEDOWS",
+    "standard": "MDWS"
+  },
+  {
+    "common": "MEWS",
+    "standard": "MEWS"
+  },
+  {
+    "common": "MILL",
+    "standard": "ML"
+  },
+  {
+    "common": "MILLS",
+    "standard": "MLS"
+  },
+  {
+    "common": "MISSN",
+    "standard": "MSN"
+  },
+  {
+    "common": "MSSN",
+    "standard": "MSN"
+  },
+  {
+    "common": "MOTORWAY",
+    "standard": "MTWY"
+  },
+  {
+    "common": "MNT",
+    "standard": "MT"
+  },
+  {
+    "common": "MT",
+    "standard": "MT"
+  },
+  {
+    "common": "MOUNT",
+    "standard": "MT"
+  },
+  {
+    "common": "MNTAIN",
+    "standard": "MTN"
+  },
+  {
+    "common": "MNTN",
+    "standard": "MTN"
+  },
+  {
+    "common": "MOUNTAIN",
+    "standard": "MTN"
+  },
+  {
+    "common": "MOUNTIN",
+    "standard": "MTN"
+  },
+  {
+    "common": "MTIN",
+    "standard": "MTN"
+  },
+  {
+    "common": "MTN",
+    "standard": "MTN"
+  },
+  {
+    "common": "MNTNS",
+    "standard": "MTNS"
+  },
+  {
+    "common": "MOUNTAINS",
+    "standard": "MTNS"
+  },
+  {
+    "common": "NCK",
+    "standard": "NCK"
+  },
+  {
+    "common": "NECK",
+    "standard": "NCK"
+  },
+  {
+    "common": "ORCH",
+    "standard": "ORCH"
+  },
+  {
+    "common": "ORCHARD",
+    "standard": "ORCH"
+  },
+  {
+    "common": "ORCHRD",
+    "standard": "ORCH"
+  },
+  {
+    "common": "OVAL",
+    "standard": "OVAL"
+  },
+  {
+    "common": "OVL",
+    "standard": "OVAL"
+  },
+  {
+    "common": "OVERPASS",
+    "standard": "OPAS"
+  },
+  {
+    "common": "PARK",
+    "standard": "PARK"
+  },
+  {
+    "common": "PRK",
+    "standard": "PARK"
+  },
+  {
+    "common": "PARKS",
+    "standard": "PARK"
+  },
+  {
+    "common": "PARKWAY",
+    "standard": "PKWY"
+  },
+  {
+    "common": "PARKWY",
+    "standard": "PKWY"
+  },
+  {
+    "common": "PKWAY",
+    "standard": "PKWY"
+  },
+  {
+    "common": "PKWY",
+    "standard": "PKWY"
+  },
+  {
+    "common": "PKY",
+    "standard": "PKWY"
+  },
+  {
+    "common": "PARKWAYS",
+    "standard": "PKWY"
+  },
+  {
+    "common": "PKWYS",
+    "standard": "PKWY"
+  },
+  {
+    "common": "PASS",
+    "standard": "PASS"
+  },
+  {
+    "common": "PASSAGE",
+    "standard": "PSGE"
+  },
+  {
+    "common": "PATH",
+    "standard": "PATH"
+  },
+  {
+    "common": "PATHS",
+    "standard": "PATH"
+  },
+  {
+    "common": "PIKE",
+    "standard": "PIKE"
+  },
+  {
+    "common": "PIKES",
+    "standard": "PIKE"
+  },
+  {
+    "common": "PINE",
+    "standard": "PNE"
+  },
+  {
+    "common": "PINES",
+    "standard": "PNES"
+  },
+  {
+    "common": "PNES",
+    "standard": "PNES"
+  },
+  {
+    "common": "PL",
+    "standard": "PL"
+  },
+  {
+    "common": "PLAIN",
+    "standard": "PLN"
+  },
+  {
+    "common": "PLN",
+    "standard": "PLN"
+  },
+  {
+    "common": "PLAINS",
+    "standard": "PLNS"
+  },
+  {
+    "common": "PLNS",
+    "standard": "PLNS"
+  },
+  {
+    "common": "PLAZA",
+    "standard": "PLZ"
+  },
+  {
+    "common": "PLZ",
+    "standard": "PLZ"
+  },
+  {
+    "common": "PLZA",
+    "standard": "PLZ"
+  },
+  {
+    "common": "POINT",
+    "standard": "PT"
+  },
+  {
+    "common": "PT",
+    "standard": "PT"
+  },
+  {
+    "common": "POINTS",
+    "standard": "PTS"
+  },
+  {
+    "common": "PTS",
+    "standard": "PTS"
+  },
+  {
+    "common": "PORT",
+    "standard": "PRT"
+  },
+  {
+    "common": "PRT",
+    "standard": "PRT"
+  },
+  {
+    "common": "PORTS",
+    "standard": "PRTS"
+  },
+  {
+    "common": "PRTS",
+    "standard": "PRTS"
+  },
+  {
+    "common": "PR",
+    "standard": "PR"
+  },
+  {
+    "common": "PRAIRIE",
+    "standard": "PR"
+  },
+  {
+    "common": "PRR",
+    "standard": "PR"
+  },
+  {
+    "common": "RAD",
+    "standard": "RADL"
+  },
+  {
+    "common": "RADIAL",
+    "standard": "RADL"
+  },
+  {
+    "common": "RADIEL",
+    "standard": "RADL"
+  },
+  {
+    "common": "RADL",
+    "standard": "RADL"
+  },
+  {
+    "common": "RAMP",
+    "standard": "RAMP"
+  },
+  {
+    "common": "RANCH",
+    "standard": "RNCH"
+  },
+  {
+    "common": "RANCHES",
+    "standard": "RNCH"
+  },
+  {
+    "common": "RNCH",
+    "standard": "RNCH"
+  },
+  {
+    "common": "RNCHS",
+    "standard": "RNCH"
+  },
+  {
+    "common": "RAPID",
+    "standard": "RPD"
+  },
+  {
+    "common": "RPD",
+    "standard": "RPD"
+  },
+  {
+    "common": "RAPIDS",
+    "standard": "RPDS"
+  },
+  {
+    "common": "RPDS",
+    "standard": "RPDS"
+  },
+  {
+    "common": "REST",
+    "standard": "RST"
+  },
+  {
+    "common": "RST",
+    "standard": "RST"
+  },
+  {
+    "common": "RDG",
+    "standard": "RDG"
+  },
+  {
+    "common": "RDGE",
+    "standard": "RDG"
+  },
+  {
+    "common": "RIDGE",
+    "standard": "RDG"
+  },
+  {
+    "common": "RDGS",
+    "standard": "RDGS"
+  },
+  {
+    "common": "RIDGES",
+    "standard": "RDGS"
+  },
+  {
+    "common": "RIV",
+    "standard": "RIV"
+  },
+  {
+    "common": "RIVER",
+    "standard": "RIV"
+  },
+  {
+    "common": "RVR",
+    "standard": "RIV"
+  },
+  {
+    "common": "RIVR",
+    "standard": "RIV"
+  },
+  {
+    "common": "RD",
+    "standard": "RD"
+  },
+  {
+    "common": "ROAD",
+    "standard": "RD"
+  },
+  {
+    "common": "ROADS",
+    "standard": "RDS"
+  },
+  {
+    "common": "RDS",
+    "standard": "RDS"
+  },
+  {
+    "common": "ROUTE",
+    "standard": "RTE"
+  },
+  {
+    "common": "ROW",
+    "standard": "RTE"
+  },
+  {
+    "common": "RUE",
+    "standard": "RUE"
+  },
+  {
+    "common": "RUN",
+    "standard": "RUN"
+  },
+  {
+    "common": "SHL",
+    "standard": "SHL"
+  },
+  {
+    "common": "SHOAL",
+    "standard": "SHL"
+  },
+  {
+    "common": "SHLS",
+    "standard": "SHLS"
+  },
+  {
+    "common": "SHOALS",
+    "standard": "SHLS"
+  },
+  {
+    "common": "SHOAR",
+    "standard": "SHR"
+  },
+  {
+    "common": "SHORE",
+    "standard": "SHR"
+  },
+  {
+    "common": "SHR",
+    "standard": "SHR"
+  },
+  {
+    "common": "SHOARS",
+    "standard": "SHRS"
+  },
+  {
+    "common": "SHORES",
+    "standard": "SHRS"
+  },
+  {
+    "common": "SHRS",
+    "standard": "SHRS"
+  },
+  {
+    "common": "SKYWAY",
+    "standard": "SKWY"
+  },
+  {
+    "common": "SPG",
+    "standard": "SPG"
+  },
+  {
+    "common": "SPNG",
+    "standard": "SPG"
+  },
+  {
+    "common": "SPRING",
+    "standard": "SPG"
+  },
+  {
+    "common": "SPRNG",
+    "standard": "SPG"
+  },
+  {
+    "common": "SPGS",
+    "standard": "SPGS"
+  },
+  {
+    "common": "SPNGS",
+    "standard": "SPGS"
+  },
+  {
+    "common": "SPRINGS",
+    "standard": "SPGS"
+  },
+  {
+    "common": "SPRNGS",
+    "standard": "SPGS"
+  },
+  {
+    "common": "SPUR",
+    "standard": "SPUR"
+  },
+  {
+    "common": "SPURS",
+    "standard": "SPUR"
+  },
+  {
+    "common": "SQ",
+    "standard": "SQ"
+  },
+  {
+    "common": "SQR",
+    "standard": "SQ"
+  },
+  {
+    "common": "SQRE",
+    "standard": "SQ"
+  },
+  {
+    "common": "SQU",
+    "standard": "SQ"
+  },
+  {
+    "common": "SQUARE",
+    "standard": "SQ"
+  },
+  {
+    "common": "SQRS",
+    "standard": "SQS"
+  },
+  {
+    "common": "SQUARES",
+    "standard": "SQS"
+  },
+  {
+    "common": "STA",
+    "standard": "STA"
+  },
+  {
+    "common": "STATION",
+    "standard": "STA"
+  },
+  {
+    "common": "STATN",
+    "standard": "STA"
+  },
+  {
+    "common": "STN",
+    "standard": "STA"
+  },
+  {
+    "common": "STRA",
+    "standard": "STRA"
+  },
+  {
+    "common": "STRAV",
+    "standard": "STRA"
+  },
+  {
+    "common": "STRAVEN",
+    "standard": "STRA"
+  },
+  {
+    "common": "STRAVENUE",
+    "standard": "STRA"
+  },
+  {
+    "common": "STRAVN",
+    "standard": "STRA"
+  },
+  {
+    "common": "STRVN",
+    "standard": "STRA"
+  },
+  {
+    "common": "STRVNUE",
+    "standard": "STRA"
+  },
+  {
+    "common": "STREAM",
+    "standard": "STRM"
+  },
+  {
+    "common": "STREME",
+    "standard": "STRM"
+  },
+  {
+    "common": "STRM",
+    "standard": "STRM"
+  },
+  {
+    "common": "STREET",
+    "standard": "ST"
+  },
+  {
+    "common": "STRT",
+    "standard": "ST"
+  },
+  {
+    "common": "ST",
+    "standard": "ST"
+  },
+  {
+    "common": "STR",
+    "standard": "ST"
+  },
+  {
+    "common": "STREETS",
+    "standard": "STS"
+  },
+  {
+    "common": "SMT",
+    "standard": "SMT"
+  },
+  {
+    "common": "SUMIT",
+    "standard": "SMT"
+  },
+  {
+    "common": "SUMITT",
+    "standard": "SMT"
+  },
+  {
+    "common": "SUMMIT",
+    "standard": "SMT"
+  },
+  {
+    "common": "TER",
+    "standard": "TER"
+  },
+  {
+    "common": "TERR",
+    "standard": "TER"
+  },
+  {
+    "common": "TERRACE",
+    "standard": "TER"
+  },
+  {
+    "common": "THROUGHWAY",
+    "standard": "TRWY"
+  },
+  {
+    "common": "TRACE",
+    "standard": "TRCE"
+  },
+  {
+    "common": "TRACES",
+    "standard": "TRCE"
+  },
+  {
+    "common": "TRCE",
+    "standard": "TRCE"
+  },
+  {
+    "common": "TRACK",
+    "standard": "TRAK"
+  },
+  {
+    "common": "TRACKS",
+    "standard": "TRAK"
+  },
+  {
+    "common": "TRAK",
+    "standard": "TRAK"
+  },
+  {
+    "common": "TRK",
+    "standard": "TRAK"
+  },
+  {
+    "common": "TRKS",
+    "standard": "TRAK"
+  },
+  {
+    "common": "TRAFFICWAY",
+    "standard": "TRFY"
+  },
+  {
+    "common": "TRAIL",
+    "standard": "TRL"
+  },
+  {
+    "common": "TRAILS",
+    "standard": "TRL"
+  },
+  {
+    "common": "TRL",
+    "standard": "TRL"
+  },
+  {
+    "common": "TRLS",
+    "standard": "TRL"
+  },
+  {
+    "common": "TRAILER",
+    "standard": "TRLR"
+  },
+  {
+    "common": "TRLR",
+    "standard": "TRLR"
+  },
+  {
+    "common": "TRLRS",
+    "standard": "TRLR"
+  },
+  {
+    "common": "TUNEL",
+    "standard": "TUNL"
+  },
+  {
+    "common": "TUNL",
+    "standard": "TUNL"
+  },
+  {
+    "common": "TUNLS",
+    "standard": "TUNL"
+  },
+  {
+    "common": "TUNNEL",
+    "standard": "TUNL"
+  },
+  {
+    "common": "TUNNELS",
+    "standard": "TUNL"
+  },
+  {
+    "common": "TUNNL",
+    "standard": "TUNL"
+  },
+  {
+    "common": "TRNPK",
+    "standard": "TPKE"
+  },
+  {
+    "common": "TURNPIKE",
+    "standard": "TPKE"
+  },
+  {
+    "common": "TURNPK",
+    "standard": "TPKE"
+  },
+  {
+    "common": "UNDERPASS",
+    "standard": "UPAS"
+  },
+  {
+    "common": "UN",
+    "standard": "UN"
+  },
+  {
+    "common": "UNION",
+    "standard": "UN"
+  },
+  {
+    "common": "UNIONS",
+    "standard": "UNS"
+  },
+  {
+    "common": "VALLEY",
+    "standard": "VLY"
+  },
+  {
+    "common": "VALLY",
+    "standard": "VLY"
+  },
+  {
+    "common": "VLLY",
+    "standard": "VLY"
+  },
+  {
+    "common": "VLY",
+    "standard": "VLY"
+  },
+  {
+    "common": "VALLEYS",
+    "standard": "VLYS"
+  },
+  {
+    "common": "VLYS",
+    "standard": "VLYS"
+  },
+  {
+    "common": "VDCT",
+    "standard": "VIA"
+  },
+  {
+    "common": "VIA",
+    "standard": "VIA"
+  },
+  {
+    "common": "VIADCT",
+    "standard": "VIA"
+  },
+  {
+    "common": "VIADUCT",
+    "standard": "VIA"
+  },
+  {
+    "common": "VIEW",
+    "standard": "VW"
+  },
+  {
+    "common": "VW",
+    "standard": "VW"
+  },
+  {
+    "common": "VIEWS",
+    "standard": "VWS"
+  },
+  {
+    "common": "VWS",
+    "standard": "VWS"
+  },
+  {
+    "common": "VILL",
+    "standard": "VLG"
+  },
+  {
+    "common": "VILLAG",
+    "standard": "VLG"
+  },
+  {
+    "common": "VILLAGE",
+    "standard": "VLG"
+  },
+  {
+    "common": "VILLG",
+    "standard": "VLG"
+  },
+  {
+    "common": "VILLIAGE",
+    "standard": "VLG"
+  },
+  {
+    "common": "VLG",
+    "standard": "VLG"
+  },
+  {
+    "common": "VILLAGES",
+    "standard": "VLGS"
+  },
+  {
+    "common": "VLGS",
+    "standard": "VLGS"
+  },
+  {
+    "common": "VILLE",
+    "standard": "VL"
+  },
+  {
+    "common": "VL",
+    "standard": "VL"
+  },
+  {
+    "common": "VIS",
+    "standard": "VIS"
+  },
+  {
+    "common": "VIST",
+    "standard": "VIS"
+  },
+  {
+    "common": "VISTA",
+    "standard": "VIS"
+  },
+  {
+    "common": "VST",
+    "standard": "VIS"
+  },
+  {
+    "common": "VSTA",
+    "standard": "VIS"
+  },
+  {
+    "common": "WALK",
+    "standard": "WALK"
+  },
+  {
+    "common": "WALKS",
+    "standard": "WALK"
+  },
+  {
+    "common": "WALL",
+    "standard": "WALL"
+  },
+  {
+    "common": "WY",
+    "standard": "WAY"
+  },
+  {
+    "common": "WAY",
+    "standard": "WAY"
+  },
+  {
+    "common": "WAYS",
+    "standard": "WAYS"
+  },
+  {
+    "common": "WELL",
+    "standard": "WL"
+  },
+  {
+    "common": "WELLS",
+    "standard": "WLS"
+  },
+  {
+    "common": "WLS",
+    "standard": "WLS"
+  }
+]

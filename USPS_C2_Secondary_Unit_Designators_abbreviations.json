@@ -1,0 +1,98 @@
+[
+  {
+    "description": "Apartment",
+    "approved_abbreviation": "APT"
+  },
+  {
+    "description": "Basement",
+    "approved_abbreviation": "BSMT"
+  },
+  {
+    "description": "Building",
+    "approved_abbreviation": "BLDG"
+  },
+  {
+    "description": "Department",
+    "approved_abbreviation": "DEPT"
+  },
+  {
+    "description": "Floor",
+    "approved_abbreviation": "FL"
+  },
+  {
+    "description": "Front",
+    "approved_abbreviation": "FRNT"
+  },
+  {
+    "description": "Hanger",
+    "approved_abbreviation": "HNGR"
+  },
+  {
+    "description": "Key",
+    "approved_abbreviation": "KEY"
+  },
+  {
+    "description": "Lobby",
+    "approved_abbreviation": "LBBY"
+  },
+  {
+    "description": "Lot",
+    "approved_abbreviation": "LOT"
+  },
+  {
+    "description": "Lower",
+    "approved_abbreviation": "LOWR"
+  },
+  {
+    "description": "Office",
+    "approved_abbreviation": "OFC"
+  },
+  {
+    "description": "Penthouse",
+    "approved_abbreviation": "PH"
+  },
+  {
+    "description": "Pier",
+    "approved_abbreviation": "PIER"
+  },
+  {
+    "description": "Rear",
+    "approved_abbreviation": "REAR"
+  },
+  {
+    "description": "Room",
+    "approved_abbreviation": "RM"
+  },
+  {
+    "description": "Side",
+    "approved_abbreviation": "SIDE"
+  },
+  {
+    "description": "Slip",
+    "approved_abbreviation": "SLIP"
+  },
+  {
+    "description": "Space",
+    "approved_abbreviation": "SPC"
+  },
+  {
+    "description": "Stop",
+    "approved_abbreviation": "STOP"
+  },
+  {
+    "description": "Suite",
+    "approved_abbreviation": "STE"
+  },
+  {
+    "description": "Trailer",
+    "approved_abbreviation": "TRLR"
+  },
+  {
+    "description": "Unit",
+    "approved_abbreviation": "UNIT"
+  },
+  {
+    "description": "Upper",
+    "approved_abbreviation": "UPPR"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "common": "AVENIDA",
+    "standard": "AVE"
+  },
+  {
+    "common": "CALLE",
+    "standard": "CLL"
+  },
+  {
+    "common": "CAMINITO",
+    "standard": "CMT"
+  },
+  {
+    "common": "CAMINO",
+    "standard": "CAM"
+  },
+  {
+    "common": "CERRADA",
+    "standard": "CER"
+  },
+  {
+    "common": "CIRCULO",
+    "standard": "CIR"
+  },
+  {
+    "common": "ENTRADA",
+    "standard": "ENT"
+  },
+  {
+    "common": "PASEO",
+    "standard": "PSO"
+  },
+  {
+    "common": "PLACITA",
+    "standard": "PLA"
+  },
+  {
+    "common": "RANCHO",
+    "standard": "RCH"
+  },
+  {
+    "common": "VEREDA",
+    "standard": "VER"
+  },
+  {
+    "common": "VISTA",
+    "standard": "VIS"
+  }
+]

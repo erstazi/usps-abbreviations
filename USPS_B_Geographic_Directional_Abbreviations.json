@@ -1,0 +1,34 @@
+[
+  {
+    "geographic_directional": "North",
+    "abbreviation": "N"
+  },
+  {
+    "geographic_directional": "East",
+    "abbreviation": "E"
+  },
+  {
+    "geographic_directional": "South",
+    "abbreviation": "S"
+  },
+  {
+    "geographic_directional": "West",
+    "abbreviation": "W"
+  },
+  {
+    "geographic_directional": "Northeast",
+    "abbreviation": "NE"
+  },
+  {
+    "geographic_directional": "Southeast",
+    "abbreviation": "SE"
+  },
+  {
+    "geographic_directional": "Northwest",
+    "abbreviation": "NW"
+  },
+  {
+    "geographic_directional": "Southwest",
+    "abbreviation": "SW"
+  }
+]
