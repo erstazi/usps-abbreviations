@@ -556,6 +556,10 @@
     "standard": "EXT"
   },
   {
+    "common": "EXTENSIONS",
+    "standard": "EXTS"
+  },
+  {
     "common": "EXTS",
     "standard": "EXTS"
   },
@@ -892,6 +896,10 @@
     "standard": "HOLW"
   },
   {
+    "common": "INLET",
+    "standard": "INLT"
+  },
+  {
     "common": "INLT",
     "standard": "INLT"
   },
@@ -1152,6 +1160,10 @@
     "standard": "MLS"
   },
   {
+    "common": "MISSION",
+    "standard": "MSN"
+  },
+  {
     "common": "MISSN",
     "standard": "MSN"
   },
@@ -1314,6 +1326,10 @@
   {
     "common": "PNES",
     "standard": "PNES"
+  },
+  {
+    "common": "PLACE",
+    "standard": "PL"
   },
   {
     "common": "PL",
